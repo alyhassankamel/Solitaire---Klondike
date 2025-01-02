@@ -1,1 +1,27 @@
+# Textures for Klondike Solitaire Game
+
+## Card Textures
+1. **Back of Card**
+   - Description: The texture used for the back of all cards.
+   - Path: assets/textures/back_of_card.png
+
+2. **Front Of Card**
+   - Description: The texture for the Ace of Spades card.
+   - Path: assets/textures/ace_of_spades.png
+
+
+## Background
+1. **Game Background**
+   - Description: Used two colors by their RGB values passed to raylib function.
+   - BG_GREEN = { 52, 162, 73, 255 }
+   - DARK_GREEN = { 43, 123, 59, 255 }
+
+## Button Textures
+1. **New Game Button**
+   - Description: The texture used for the "New Game" button.
+   - Path: assets/textures/new_game_button.png.
+
+2. **Undo Button**
+   - Description: The texture used for the "New Game" button.
+   - Path: assets/textures/new_game_button.png
 
